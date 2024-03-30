@@ -8,16 +8,16 @@ The project has the purpose of validating the login, recording the error that th
 ## Screenshots / Capturas de tela
 - Home / Página Inicial
 ![App Screenshot](https://i.imgur.com/mwGeWh7.png)
--
+
 
 - Menu
 ![App Screenshot](https://i.imgur.com/ItluNEe.png)
--
+
 
 
 - Registrar o Erro / Record the error
 ![App Screenshot](https://i.imgur.com/myyK6hI.png)
--
+
 
 - Registro do Erro / Error Log
 ![App Screenshot](https://i.imgur.com/6m4Q0iO.png)
